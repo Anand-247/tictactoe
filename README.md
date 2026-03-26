@@ -3,4 +3,4 @@ Used Techologies are :-  HTML, CSS and Basic JavaScript.
 
 Live link of website is here
 
-https://learner-anand.github.io/tictactoe/
+https://anand-247.github.io/tictactoe/
